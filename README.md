@@ -1,6 +1,6 @@
-# myapp
+# Bookstore App
 
-A new Flutter project.
+Breve introdução à Flutter na Imersão Dev da ALURA
 
 ## Getting Started
 
