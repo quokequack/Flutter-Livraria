@@ -5,6 +5,7 @@ Breve introdução à Flutter na Imersão Dev da ALURA
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+Esse projeto é um ponto de início para Fluttter
 
 A few resources to get you started if this is your first Flutter project:
 
